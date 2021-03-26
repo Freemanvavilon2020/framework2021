@@ -1,5 +1,5 @@
 <?php
-#Подключение к DB доступы 
+#Подключение к базе данных
 return [
 	'host' => 'localhost',
 	'dbname' => 'testdb',
