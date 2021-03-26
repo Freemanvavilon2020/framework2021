@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cd5dddf-90bc-4319-8ef2-c3f447ba1d74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2(64x)" />
+  <component name="ProjectId" id="1Tn7DLOlKsCrKIaN8RW2RnXHCDa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cd5dddf-90bc-4319-8ef2-c3f447ba1d74" name="Default Changelist" comment="" />
+      <created>1574083884933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574083884933</updated>
+      <workItem from="1574083889553" duration="733000" />
+      <workItem from="1580081397054" duration="344000" />
+      <workItem from="1580305288993" duration="27000" />
+      <workItem from="1580305335953" duration="11000" />
+      <workItem from="1585512172342" duration="647000" />
+      <workItem from="1585590971626" duration="25000" />
+      <workItem from="1585665019879" duration="2022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="24" key="#CLI_Interpreters" timestamp="1585512462360">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="24" key="#CLI_Interpreters/0.0.1366.738/1366.0.2560.1050@0.0.1366.738" timestamp="1585512462360" />
+    <state x="390" y="0" key="#PHP" timestamp="1585512468240">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="0" key="#PHP/0.0.1366.738/1366.0.2560.1050@0.0.1366.738" timestamp="1585512468240" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1585590991727">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.2560.1050@0.0.1366.738" timestamp="1585590991727" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1585512762522">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738/1366.0.2560.1050@0.0.1366.738" timestamp="1585512762522" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1585665049285">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1580305346027" />
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738/1366.0.2560.1050@0.0.1366.738" timestamp="1585665049285" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1585590976199">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1580305306728" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.2560.1050@0.0.1366.738" timestamp="1585590976199" />
+  </component>
+</project>
