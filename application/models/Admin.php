@@ -35,7 +35,7 @@ class Admin extends Model {
 
         return true;
     }
-
+ #Создаем пользователя
     public function creatUser($post) {
         $params = [
             'id' => '',
