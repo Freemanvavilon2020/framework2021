@@ -3,7 +3,7 @@
 namespace application\controllers;
 
 use application\core\Controller;
-
+#Регистрация и вход
 class AccountController extends Controller {
 
 	public function loginAction() {
