@@ -18,6 +18,7 @@ class Admin extends Model {
 		}
 		return true;
 	}
+	 #Валидация формы создания пользователя
     public function creatuserValidate($post) {
         $nameLen = iconv_strlen($post['name']);
         $firstnameLen = iconv_strlen($post['firstname']);
