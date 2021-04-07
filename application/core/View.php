@@ -24,7 +24,7 @@ class View {
             require sprintf("application/views/layouts/%s.php", $this->layout);
         } else { echo 'Вид не найден';}
     }
-
+#Редирект
     public function redirect($url) {
         header('location: /'.$url);
         exit;
