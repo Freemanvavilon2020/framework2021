@@ -18,7 +18,7 @@ class AdminController extends Controller {
 
         $this->view->render('Все пользователи');
     }
-
+   #Проверяем логин
     public function loginAction() {
         if (isset($_SESSION['admin'])) {
             $this->view->redirect('admin');
