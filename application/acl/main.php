@@ -1,4 +1,5 @@
 <?php
+#Права доступа
 return [
     'all' => [
         'index',
