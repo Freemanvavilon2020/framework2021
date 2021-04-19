@@ -1,3 +1,4 @@
+#Шаблон входа
 <h3>Вход</h3>
 <form action="/account/login" method="post">
 	<p>Логин</p>
