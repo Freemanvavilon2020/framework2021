@@ -23,7 +23,7 @@ class Router {
         $this->routes[$route] = $params;
 
     }
-    #добавить маршрут принимает 2 значения обрабатывает их
+    #Добавить маршрут принимает 2 значения обрабатывает их
 
     public function match() {
         $url = trim($_SERVER['REQUEST_URI'],'/');
