@@ -15,7 +15,7 @@ return [
 		'action' => 'edit',
 	],
 
-//AdminController
+#Маршруты админки
     'admin' => [
         'controller' => 'admin',
         'action' => 'index',
