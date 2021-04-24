@@ -61,7 +61,7 @@ class AdminController extends Controller {
 
         $this->view->render('Редактировать');
     }
-
+#Удалить пользователя
     public function deletuserAction() {
 
         $this->view->render('Удалить');
