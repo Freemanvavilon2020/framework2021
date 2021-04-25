@@ -16,7 +16,7 @@ class Router {
         }
     }
     
-    #Добавляем маршрут
+    #Добавляем новый маршрут
 
     public function add($route, $params) {
         $route = '#^'.$route.'$#';
