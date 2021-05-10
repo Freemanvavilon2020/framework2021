@@ -1,5 +1,4 @@
 <?php
-
 require 'application/lib/Dev.php';
 #Подключил debug
 use application\core\Router;
