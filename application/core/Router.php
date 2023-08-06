@@ -16,6 +16,7 @@ class Router {
         }
     }
     #Добавляем новый маршрут
+    
     public function add($route, $params) {
         $route = '#^'.$route.'$#';
         $this->routes[$route] = $params;
