@@ -36,7 +36,6 @@ class Router {
         return false;
 
     }
-    
     #проверить маршрут
 
     public function run(){
