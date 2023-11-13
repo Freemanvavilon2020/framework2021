@@ -1,7 +1,5 @@
 <?php
 
-
-ааа
 namespace application\core;
 
 use application\lib\Db;
